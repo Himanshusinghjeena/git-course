@@ -1,3 +1,3 @@
-# git-course
+# git-course 
 Git Course Demo
-Author - Himanshu Singh Jeena(I.T.S)
+Author - Himanshu Singh Jeena(BCA 2021-24)
